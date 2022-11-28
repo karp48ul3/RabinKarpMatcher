@@ -1,2 +1,2 @@
 # RabinKarpMatcher
-Implementatio of String Matching Algorithm Rabin-Karp
+Implementation of String Matching Algorithm Rabin-Karp
